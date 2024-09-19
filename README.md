@@ -1,4 +1,4 @@
-#Assignment 2-1
+# Assignment 2-1
 
 •	Add data validation.
 •	Add a sales tax calculation of 8% based on the discounted price. Then, display the sales tax rate, the calculated sales tax amount, and the sales total after the discounted price.
